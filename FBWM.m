@@ -192,9 +192,15 @@ end
 fclose(fid);
 fclose(fidout);
 
-poolobj = gcp('nocreate');
-delete(poolobj);
-dke([path_output '/DKE/DKEParameters.txt'])
+% DKE source code
+%poolobj = gcp('nocreate');
+%delete(poolobj);
+%dke([path_output '/DKE/DKEParameters.txt'])
+
+% DKE command line 
+command=['dke ' path_output '/DKE/DKEParameters.txt'];
+system(command);
+
 load([path_output '/DKE/DT.mat'])
 
 %% Core calculations (can take about 10 min) 
