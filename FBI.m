@@ -1,4 +1,4 @@
-   %% "FBI‚Äù: Fiber Ball Imaging 
+   %% "FBI"Äù: Fiber Ball Imaging 
     %       input:
     %           - path_data: path to 4D nifti 
     %           - path_gradient:   path to gradient directions in same order as data
@@ -43,20 +43,18 @@
     %      cite the references listed below.
     %
     %     REFERENCES
-    %     McKinnon, E. T., Helpern, J. A., & Jensen, J. H. (2018). Modeling white matter microstructure with fiber ball imaging.
-    %     NeuroImage, 176, 11-21.
     %     Jensen, J. H., Glenn, G. R., & Helpern, J. A. (2016). Fiber ball imaging. Neuroimage, 124, 824-833.
  
 
 
 %% input 
 
-path_data='/Users/Emilie/Box Sync/PhD_Projects/FBWM_Corrected_T2/output_TE100/4D_all.nii';
-path_gradient='/Users/Emilie/Box Sync/PhD_Projects/FBWM_Corrected_T2/output_TE100/gradient_all.txt';
-path_brain_mask='/Users/Emilie/Box Sync/PhD_Projects/FBWM_Corrected_T2/output_TE100/brain_mask.nii';
+path_data='';
+path_gradient='';
+path_brain_mask='';
 degree=6;
-path_bval='/Users/Emilie/Box Sync/PhD_Projects/FBWM_Corrected_T2/output_TE100/bvals_all.txt';
-path_output=    '/Users/Emilie/Box Sync/PhD_Projects/FBWM_Corrected_T2/output_TE100/output/';
+path_bval='';
+path_output='';
 
 %%
 % read in bvalues and gradient table 
