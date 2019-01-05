@@ -1,0 +1,35 @@
+Start date and time: August 29, 2018 15:48:23
+Diffusional Kurtosis Estimator (DKE) version 2.6.0
+Reading input images... complete
+Filtering input images... complete.
+Processing voxels... 1% complete.2% complete.3% complete.4% complete.5% complete.6% complete.7% complete.8% complete.9% complete.10% complete.11% complete.12% complete.13% complete.14% complete.15% complete.16% complete.17% complete.18% complete.19% complete.20% complete.21% complete.22% complete.23% complete.24% complete.25% complete.26% complete.27% complete.28% complete.29% complete.30% complete.31% complete.32% complete.33% complete.34% complete.35% complete.36% complete.37% complete.38% complete.39% complete.40% complete.41% complete.42% complete.43% complete.44% complete.45% complete.46% complete.47% complete.48% complete.49% complete.50% complete.51% complete.52% complete.53% complete.54% complete.55% complete.56% complete.57% complete.58% complete.59% complete.60% complete.61% complete.62% complete.63% complete.64% complete.65% complete.66% complete.67% complete.68% complete.69% complete.70% complete.71% complete.72% complete.73% complete.74% complete.75% complete.76% complete.77% complete.78% complete.79% complete.80% complete.81% complete.82% complete.83% complete.84% complete.85% complete.86% complete.87% complete.88% complete.89% complete.90% complete.91% complete.92% complete.93% complete.94% complete.95% complete.96% complete.97% complete.98% complete.99% complete.100% complete.
+
+Writing output images to files...
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/kmean.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/dmean.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/kax.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/krad.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/dax.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/drad.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/fa.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/kfa.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/mkt.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/k2.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/k3.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/d2.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/d3.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/dt_eigval.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/dt_eigvec.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/KT.mat
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/DT.mat
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/wmm_awf.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/wmm_da.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/wmm_de_ax.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/wmm_de_rad.nii
+Writing /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/wmm_tort.nii
+Complete
+
+Diffusional kurtosis maps are in folder /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE
+DKE processing parameters file is /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/DKEParameters.dat
+DKE log file is /Users/Emilie/Box Sync/PhD_Projects/troubleshooting/UCL_FBWM/N_dir/DKE/dke.log
+
