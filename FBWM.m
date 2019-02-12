@@ -193,13 +193,13 @@ fclose(fid);
 fclose(fidout);
 
 % DKE source code
-%poolobj = gcp('nocreate');
-%delete(poolobj);
-%dke([path_output '/DKE/DKEParameters.txt'])
+poolobj = gcp('nocreate');
+delete(poolobj);
+dke([path_output '/DKE/DKEParameters.txt'])
 
-% DKE command line 
-command=['dke ' path_output '/DKE/DKEParameters.txt'];
-system(command);
+% DKE command line windows executables
+%command=['dke ' path_output '/DKE/DKEParameters.txt'];
+%system(command);
 
 load([path_output '/DKE/DT.mat'])
 
