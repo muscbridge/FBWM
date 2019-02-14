@@ -24,7 +24,7 @@ fprintf('%s (%s) platform detected, building into "/%s"\n\n',...
 
 %   Reset Relevant Folder
 if isdir(folderName)
-    rmdir(folderName);
+    rmdir(folderName,'s');
     mkdir(folderName);
 else
     mkdir(folderName);
