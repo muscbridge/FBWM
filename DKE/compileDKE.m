@@ -4,8 +4,6 @@ function compileDKE
 %   Ex:
 %       >> compileDKE
 
-
-
 %   Detect Platform
 arch = computer('arch');
 folderName = sprintf('DKE_Executable_%s',arch);
